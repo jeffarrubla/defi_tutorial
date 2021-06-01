@@ -767,12 +767,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xF4cf8E7357335487a806Df49369a27506dB39e35",
-      "transactionHash": "0x47bb4549d0b663140250a9f765e93d4fd884010bd6d862759e04c6ef2f7216d3"
+      "address": "0xC64aeb07815e6969305e1404f111E992DcF21A2e",
+      "transactionHash": "0x99282ea222d08a6ba427c2ad866315ea6cdd8ee6a6f1a36062c87a889f74e99b"
     }
   },
   "schemaVersion": "3.2.3",
-  "updatedAt": "2021-05-31T21:39:06.514Z",
+  "updatedAt": "2021-06-01T18:34:04.669Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
