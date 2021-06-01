@@ -7,3 +7,7 @@
 5. [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn/related)
 
 Configure metamask to work with ganache.
+
+run 
+`truffle exec scripts/issue-tokens.js`
+to give DAPP tokens to the investor
